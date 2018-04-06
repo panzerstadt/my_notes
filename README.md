@@ -14,7 +14,8 @@ First step is to replicate this [gitnotes](http://gitnotes.herokuapp.com/).
 I'm going to need [Heroku](https://dashboard.heroku.com/apps).
 
 ## Progressed.Io
-This is a microservice for a progress bar. 
+This is a microservice for a progress bar.
+
 [Progressed.io](https://github.com/fehmicansaglam/progressed.io)
 
 ## Steam Api
