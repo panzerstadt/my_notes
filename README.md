@@ -3,8 +3,10 @@ This is where I store all my notes. Most of the content here are from Panzerstad
 
 ## Markdown
 This readme file is stored as Markdown. I gather that it's the improvement of HTML. You've gotta learn it to progress. Start remembering the codes so that you don't have to keep referring to the cheatsheet.
-/[Markdown Tutorial](https://www.markdowntutorial.com/lesson/1/)
-/[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+[Markdown Tutorial](https://www.markdowntutorial.com/lesson/1/)
+
+[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## Dashbaord
 My first collaboration project with Panzerstadt - build a dashboard. Most of what we need will be in the notes here. I need to transition from learning to doing.
