@@ -20,9 +20,18 @@ This is a microservice for a progress bar.
 
 ## Steam Api
 We're building a dashboard that includes gaming hours from Steam.
-To do: Figure how to get the API.
+DONE: Figure how to get the API.
+
+[code]()
 
 [Steam API](https://developer.valvesoftware.com/wiki/Steam_Web_API#GetGlobalStatsForGame_.28v0001.29)
+
+quick reference (simplest) - the one used
+[ref](https://stackoverflow.com/questions/29824111/get-a-users-steam-inventory)
+
+longer references on how to scrape (tutorials)
+[ref1](https://blog.scrapinghub.com/2017/07/07/scraping-the-steam-game-store-with-scrapy/)
+[ref2](https://www.jonlim.ca/scraping-steam-data-using-python-beautifulsoup/)
 
 ## Pen
 Learn to code animations with HTML. Do this at your own time.
