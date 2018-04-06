@@ -1,2 +1,2 @@
-# new_test
+# my_notes
 New test repository
