@@ -8,7 +8,7 @@ This readme file is stored as Markdown. I gather that it's the improvement of HT
 
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-## Dashbaord
+## Dashboard
 My first collaboration project with Panzerstadt - build a dashboard. Most of what we need will be in the notes here. I need to transition from learning to doing.
 First step is to replicate this [gitnotes](http://gitnotes.herokuapp.com/). 
 I'm going to need [Heroku](https://dashboard.heroku.com/apps).
@@ -22,7 +22,7 @@ This is a microservice for a progress bar.
 We're building a dashboard that includes gaming hours from Steam.
 DONE: Figure how to get the API.
 
-[code]()
+[code](./code/API_steam.py)
 
 [Steam API](https://developer.valvesoftware.com/wiki/Steam_Web_API#GetGlobalStatsForGame_.28v0001.29)
 
