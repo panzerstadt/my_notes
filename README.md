@@ -20,7 +20,7 @@ This is a microservice for a progress bar.
 ## Steam Api
 We're building a dashboard that includes gaming hours from Steam.
 To do: Figure how to get the API.
-[Steam API] (https://developer.valvesoftware.com/wiki/Steam_Web_API#GetGlobalStatsForGame_.28v0001.29)
+[Steam API](https://developer.valvesoftware.com/wiki/Steam_Web_API#GetGlobalStatsForGame_.28v0001.29)
 
 ## Pen
 Learn to code animations with HTML. Do this at your own time.
